@@ -1,0 +1,79 @@
+intro: [
+Welcome, in this world your job is to set out and capture a dragon that is
+terrorizing the villages near by. Luckily a special blacksmith is capable of making
+a cage strong enough to hold the dragon. Too make this cage you will need to earn a lot of money,
+because the cage is made out of a very expensive material.
+]
+
+explaining the game: [
+To earn money you will buy cages to go and get animals to then sell on the market, but the animals
+can not be over hunted. This means that each species has a minimum population, and if the population number
+falls bellow the minimum, this species will then be considered endangered, only a potion would be able to
+restore the population. The potion could be bought at the store.
+
+Go to the store to buy your first set of cages
+]
+
+Explaining how hunting works: [
+You are about to enter the wild, this is dangerous place where many enemies are lurking. Here is where you will
+capture the animals to sell. A space will appear in front of you with an animal roaming. Your cage is set in the
+middle of the field. To capture the animal you will click "c" to close. If the animal is not in the cage you
+miss and the animal gets away. Every time the animal gets to the end of the space, it attacks you, and after 3
+attacks the animal runs away. So be alert and be quick.
+
+Good luck.
+
+*press enter to continue*
+]
+
+level up screen: [
+
+=============================
+.............................
+------CONGRATULATIONS--------
+.............................
+----YOU HAVE LEVELED UP------
+.............................
+=============================
+
+]
+
+Once they get to level 3 explaining how to capture the dragon:[
+Congratulations on getting this far young warrior. You now have the skills and precision required
+to take down the evil dragon. To be able to fight him you need to require certain objects for the blacksmith
+so that he could make a proper cage for the Dragon. Bellow is a list of the things you need.
+We are counting on you. Good Luck.
+
+Requirements:
+ - Cage: () needs to be a level 5 and acquire 4 of them
+ - Cage: [] needs to be a level 4 and acquire 3 of them
+ - Cage: () needs to be a level 3 and acquire 2 of them
+
+* press enter to return to main menu *
+
+
+_ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|-----------------|_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|                 |_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _|-----------------|_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _ _
+                /     \
+               ((     ))
+             ===\\_v_//===
+              ===)\^/(===
+             ===/ O O \===
+             = | /_ _\ | =
+            =   \/_ _\/   =
+                 \_ _/
+                 (o_o)
+                  VwV
+
+

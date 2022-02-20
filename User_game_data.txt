@@ -1,0 +1,12 @@
+Calvin
+coolguy 100 50 nothing 0 () 0 1 nothing 0 0 0 1 1 
+Oscar
+Goku 100 50 nothing 0 () 0 1 nothing 0 0 0 1 1 
+tom
+tommy 100 50 nothing 0 () 0 1 nothing 0 0 0 1 1 
+billy
+bill 100 50 nothing 0 () 0 1 nothing 0 0 0 1 1 
+polly
+pol 100 50 nothing 0 () 0 1 nothing 0 0 0 1 1
+cop
+mnm 100 50 nothing 0 () 0 1 nothing 0 0 0 1 1
